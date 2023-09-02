@@ -61,9 +61,6 @@ def draw_box(edges):
     robot.MoveL(target_ref)
     # RDK.Command("Trace","off")
 
-
-
-
 if __name__ == "__main__":
     edges = [
         [0,0],
