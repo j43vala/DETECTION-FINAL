@@ -1,3 +1,0 @@
-pip install supervision 
-pip install ultralytics
-pip install robodk
